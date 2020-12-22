@@ -1,0 +1,33 @@
+h1{
+    text-shadow: 5px 5px 5px solid black;
+    font-style: italic;
+    border: 3px solid red;
+    text-align: center;
+    font-size: 80px;
+    background-color: chartreuse;
+}
+div{
+    border: 5px solid black;
+  /*  min-width: 400px;
+    max-width: 900px;
+    /*margin: 20px;*/
+    font-size: 50px;
+    position: sticky;
+    top: 10px;
+    left: 10px;
+}
+li{
+    font-size: 50px;
+}
+.a{
+    background-color: chartreuse;
+}
+.b{
+    background-color: chartreuse;
+}
+.c{
+    background-color: chartreuse;
+}
+.d{
+    background-color: chartreuse;
+}
